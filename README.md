@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz</h1>
 <h3 align="center">A passionate frontend developer from Argentina who loves to keep grinding on to be a better programmer everyday.
-I was, I am and I will be a student. Throughout my adult life I have dedicated myself to perfecting my study tools. Hand in hand with yoga and physical exercise I find tools that allow me to stay focused and relaxed.
- In programming I have found a very interesting professional path, where knowledge and teamwork are valued, which I intend to follow.
+I was, I am and I will be a student. Throughout my adult life I have dedicated myself to perfecting my learning skills. Hand in hand with yoga and physical exercise I find tools that allow me to stay focused and relaxed.
+ Being a developer is a very interesting professional path, where knowledge and teamwork are valued, which I intend to follow.
  I am an advanced student of the Bachelor's degree in Administration, so I have a genuine interest in organizations and their internal world in relation to the external agents that condition them.
  I recently finished Henry (training as a Full Stack Developer) which makes it possible for me to go looking for a job as a Front-end developer.
 
