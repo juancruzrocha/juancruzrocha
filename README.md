@@ -7,7 +7,7 @@ I was, I am and I will be a student. Throughout my adult life I have dedicated m
 
 </h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juancruzrocha](https://github.com/juancruzrocha)
 
